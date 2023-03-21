@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 Hi 👋, I'm Marcin Dabek
+# 💫 Hi 👋 I'm Marcin Dabek
 <br>Frontend Developer student from FED24 class at Hyper Island in Stockholm, Sweden.<br>🔭 I’m currently working on: design and coding skills by working on real projects at Hyper Island.<br>🌱 I’m currently learning: Javascript and React.<br>👯 I’m looking to: start my frontend internship in june/july 2023.<br>📄 Check my eduation and experience at: www.linkedin.com/in/marcindabek/<br>💬 Ask me about: coding or Ableton and drum programming.<br>📫 You can reach me: marcin.dabek@hyperisland.se<br>👨‍💻 All my projects are available at www.marcindabek.com<br>⚡ Fun fact about me: I can count to 10 in Japanese 😄 
 
 
