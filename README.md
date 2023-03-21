@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## 💫 Frontend Developer student from FED24 class at Hyper Island in Stockholm, Sweden.<br>
 🔭 I’m currently working on: design and coding skills by working on real projects at Hyper Island.<br>🌱 I’m currently learning: Javascript and React.<br>👯 I’m looking to: start my frontend internship in june/july 2023.<br>📄 Check my eduation and experience at: www.linkedin.com/in/marcindabek/<br>💬 Ask me about: Frontend coding or Ableton drum programming.<br>📫 You can reach me: marcin.dabek@hyperisland.se<br>👨‍💻 All my projects are available at www.marcindabek.com<br>⚡ Fun fact about me: I can count to 10 in Japanese 😄 
 
-
+<div align="center">
 ## 🌐 Let's connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcindabek) 
 
@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=mrdabek&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
